@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>d:\1. university\2 semestr\computer science\labs\lab10\lab10\</FILEPATH><FILENAME>lab10.cpp</FILENAME><LINE>28</LINE><COLUMN>7</COLUMN></SFA><DEFECTCODE>6031</DEFECTCODE><DESCRIPTION>Возвращаемое значение пропущено: "_getch".</DESCRIPTION><FUNCTION>main</FUNCTION><DECORATED>main</DECORATED><FUNCLINE>16</FUNCLINE><PATH/></DEFECT></DEFECTS>

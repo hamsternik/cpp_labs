@@ -1,0 +1,3 @@
+﻿  lab12.cpp
+d:\1. university\2 semestr\computer science\labs\lab12\lab12\lab12.cpp(55): warning C4715: switch_func: значение возвращается не при всех путях выполнения
+  lab12.vcxproj -> D:\1. University\2 semestr\Computer Science\labs\lab12\Debug\lab12.exe
