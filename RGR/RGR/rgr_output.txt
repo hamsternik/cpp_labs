@@ -1,0 +1,5 @@
+input x start: input x end: input x delta: input e: 
+
+Our arc-hyperbolic sine function at the 1 step:0.48122
+Our arc-hyperbolic sine function at the 2 step:0.56881
+Our arc-hyperbolic sine function at the 3 step:0.65271

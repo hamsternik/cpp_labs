@@ -1,0 +1,3 @@
+﻿  lab14cpp.cpp
+d:\1. university\2 semestr\computer science\labs\lab14\lab14\lab14cpp.cpp(30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab14.vcxproj -> D:\1. University\2 semestr\Computer Science\labs\lab14\Debug\lab14.exe
